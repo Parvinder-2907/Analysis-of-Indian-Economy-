@@ -1,6 +1,8 @@
 # Analysis-of-Indian-Economy-
 Analysis of Indian Economy using excel and tableau
+
 Introduction
+
 Analyzing data is an important process by which we derive significant inferences about a large data. About a particular topic we might have data in lakhs of rows and columns we cannot possibly go through each and every entry and then reach a conclusion. For that we require assistance of tools like tableau and excel. Data analysis organizes, interprets, structures, and presents the data into useful information that provides context for the data.	
 In my project I have taken a dataset that accounts all the information regarding Indian Economy from the year 1960 to 2019. Which involves
 GDP: Gross domestic product (GDP) is the standard measure of the value added created through the production of goods and services in a country during a certain period. As such, it also measures the income earned from that production, or the total amount spent on final goods and services.
