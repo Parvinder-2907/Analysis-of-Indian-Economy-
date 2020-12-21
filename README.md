@@ -22,14 +22,23 @@ Imports are defined as goods produced outside the boundaries of one country, whi
 
 Analysis Summary:
 1st Dataset : Gross Domestic Product (GDP):
-                 Analysis 1: GDP per ten year analysis.
+
+                 Analysis 1: GDP per ten year analysis
+                 
                  Analysis 2: Annual change in GDP growth	
-                 Analysis 3: GDP Growth (in billion).
+                 
+                 Analysis 3: GDP Growth (in billion)
+                 
                  Analysis 4: sum per capita
+                 
                  Analysis 5: GDP year by year analysis
+                 
 2nd Dataset: Gross National Product (GNP):
+
                 Analysis 1: GNP growth in Billion USD.
+                
                 Analysis 2: GNP change per yearly basis
+                
 3rd Dataset : Inflation Rate 
                 Analysis 1: Inflation Rate in percentage.
                 Analysis 2: Inflation Rate Annual Change.
